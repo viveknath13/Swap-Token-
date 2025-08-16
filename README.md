@@ -1,4 +1,4 @@
-#Token Swap 
+ # Token Swap 
  The TokenSwap.sol contract is a decentralized exchange (DEX) that allows
    users to trade VivekToken and BobToken. It uses an automated market
   maker (AMM) system to determine the price of the tokens and facilitate
@@ -64,3 +64,4 @@
      specific user has provided.
    * getTokenBalances(): Returns the current balance of both VivekToken
      and BobToken held by the contract.
+     deployed on rootstock https://explorer.testnet.rootstock.io/address/0x4bc72a312ddd3752fdbfb17ca041c4bd110a7249
